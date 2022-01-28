@@ -1,5 +1,3 @@
-<img src="./profile/lovelysystems.png" width="64" />
-
 # Hi, we are Lovely Systems!
 
 We develop highly scalable web services & platforms and also sign responsible for their technical operation — 24/7.
