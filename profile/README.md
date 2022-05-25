@@ -39,5 +39,6 @@ We contribute our improvements to the tools we rely on, while also maintaining o
 ### Oh, we're hiring!
 
 - [Senior Entwickler:in Backend Kotlin](https://lovelysystems.join.com/jobs/3850067-senior-entwickler-in-backend-kotlin)
+- [Senior Web Entwickler:in TypeScript](https://join.com/companies/lovelysystems/4755889-senior-web-entwickler-in-typescript)
 
 Would you like to join our team? You can reach us at [office@lovelysystems.com](mailto:office@lovelysystems.com).
