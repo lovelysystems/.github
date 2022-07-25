@@ -10,7 +10,7 @@ We are 12 great team players developing highly scalable web services & platforms
 - [Virgin Radio Switzerland](https://www.virginradio.ch/), [Radio 24](https://www.radio24.ch/), [Radio FM1](https://www.radiofm1.ch/),
   [Radio Pilatus](https://www.radiopilatus.ch/), [Radio Argovia](https://radio.argovia.ch/), [Radio 32](https://www.radio32.ch/),
   [RADIO BERN1](https://www.radiobern1.ch/), [Radio Melody](https://www.radiomelody.ch/), [FLASHBACK FM](https://www.flashbackfm.ch/)
-- [TeleZüri](https://www.telezueri.ch/), [TeleBärn](https://www.telebaern.tv/), [TeleM1](https://www.telem1.ch/),
+- [TeleZüri](https://www.telezueri.ch/), [Tele 1](https://www.tele1.ch/), [TeleBärn](https://www.telebaern.tv/), [TeleM1](https://www.telem1.ch/),
   [TVO Online](https://www.tvo-online.ch/)
 - [SKala-CAMPUS](https://www.skala-campus.org/): a digital learning & exchange platform
 - [Petitio](https://www.petitio.ch/): a petition platform for enabling local change
