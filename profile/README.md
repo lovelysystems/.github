@@ -15,6 +15,7 @@ We are 12 great team players developing highly scalable web services & platforms
 - [SKala-CAMPUS](https://www.skala-campus.org/): a digital learning & exchange platform
 - [Petitio](https://www.petitio.ch/): a petition platform for enabling local change
 - [Amtliche Nachrichten](https://www.amtliche-nachrichten.ch/): official publications platform used by many Swiss municipalities
+- [Work Life Aargau](https://www.worklifeaargau.ch/de/): «Working in the Canton of Aargau»
 
 ### Open Source
 
