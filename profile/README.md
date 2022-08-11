@@ -6,7 +6,7 @@ We are 12 great team players developing highly scalable web services & platforms
 - [GI.cloud](https://www.gantner-instruments.com/products/data-acquisition-software/gi-cloud/):
   adaptive and scalable platform for high performance edge computing software
 - [ZüriToday](https://www.zueritoday.ch/), [FM1Today](https://www.fm1today.ch/), [ArgoviaToday](https://www.argoviatoday.ch/),
-  [PilatusToday](https://www.pilatustoday.ch/): local news sites in Switzerland
+  [PilatusToday](https://www.pilatustoday.ch/), [BärnToday](https://www.baerntoday.ch/): local news sites in Switzerland
 - [Virgin Radio Switzerland](https://www.virginradio.ch/), [Radio 24](https://www.radio24.ch/), [Radio FM1](https://www.radiofm1.ch/),
   [Radio Pilatus](https://www.radiopilatus.ch/), [Radio Argovia](https://radio.argovia.ch/), [Radio 32](https://www.radio32.ch/),
   [RADIO BERN1](https://www.radiobern1.ch/), [Radio Melody](https://www.radiomelody.ch/), [FLASHBACK FM](https://www.flashbackfm.ch/)
