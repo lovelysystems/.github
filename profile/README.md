@@ -9,7 +9,8 @@ We are 16 great team players developing highly scalable web services & platforms
   [PilatusToday](https://www.pilatustoday.ch/), [BärnToday](https://www.baerntoday.ch/), [32Today](https://www.32today.ch/): local news sites in Switzerland
 - [Virgin Radio Switzerland](https://www.virginradio.ch/), [Radio 24](https://www.radio24.ch/), [Radio FM1](https://www.radiofm1.ch/),
   [Radio Pilatus](https://www.radiopilatus.ch/), [Radio Argovia](https://radio.argovia.ch/), [Radio 32](https://radio.radio32.ch/),
-  [RADIO BERN1](https://radio.radiobern1.ch/), [Radio Melody](https://www.radiomelody.ch/), [FLASHBACK FM](https://www.flashbackfm.ch/)
+  [RADIO BERN1](https://radio.radiobern1.ch/), [Radio Melody](https://www.radiomelody.ch/), [FLASHBACK FM](https://www.flashbackfm.ch/),
+  [Radio Central](https://www.radiocentral.ch/), [Eviva](https://www.eviva.ch/), [Radio Sunshine](https://www.sunshine.ch/)
 - [TeleZüri](https://www.telezueri.ch/), [Tele 1](https://www.tele1.ch/), [TeleBärn](https://www.telebaern.tv/), [TeleM1](https://www.telem1.ch/),
   [TVO Online](https://www.tvo-online.ch/)
 - [Petitio](https://www.petitio.ch/): a petition platform for enabling local change
