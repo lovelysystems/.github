@@ -1,6 +1,6 @@
 # Hi, we are Lovely Systems!
 
-We are 16 great team players developing highly scalable web services & platforms. We also sign responsible for their technical operation — 24/7.
+We are a small group of great team players developing highly scalable web services & platforms. We also sign responsible for their technical operation — 24/7.
 
 - [oneplus](https://www.oneplus.ch/): the best Swiss streaming platform
 - [GI.cloud](https://www.gantner-instruments.com/products/data-acquisition-software/gi-cloud/):
@@ -26,7 +26,7 @@ We contribute our improvements to the tools we rely on, while also maintaining o
 - [Kotlin](https://kotlinlang.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Python](https://www.python.org/)
-- [SQL](https://www.postgresql.org/docs/14/sql.html)
+- [SQL](https://www.postgresql.org/docs/current/sql.html)
 - ...
 
 ### Favorite Technologies
