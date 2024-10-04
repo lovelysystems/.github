@@ -1,4 +1,4 @@
-# Hi, we are Lovely Systems!
+# Hi, we are Lovely Systems from the Alps!
 
 We are a small group of great team players developing highly scalable web services & platforms. We also sign responsible for their technical operation — 24/7.
 
