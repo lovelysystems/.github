@@ -39,5 +39,3 @@ We contribute our improvements to the tools we rely on, while also maintaining o
 
 Would you like to join our team? We're always interested in meeting motivated, talented and nice people. 
 You can reach us at [office@lovelysystems.com](mailto:office@lovelysystems.com). Let's take it from there.
-
-Right now, we're explicitly looking for a [Frontend Developer (part-time)](https://github.com/lovelysystems/.github/blob/main/jobs/frontend-developer-in-dornbirn-part-time.md) to join our team in Dornbirn. 
