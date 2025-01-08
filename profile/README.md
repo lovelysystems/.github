@@ -2,6 +2,7 @@
 
 We are a small group of great team players developing highly scalable web services & platforms. We also sign responsible for their technical operation — 24/7.
 
+- [Lovely Streaming](https://www.lovelystreaming.com): the lovely and open future of OTT
 - [oneplus](https://www.oneplus.ch/): the best Swiss streaming platform
 - [GI.cloud](https://www.gantner-instruments.com/products/data-acquisition-software/gi-cloud/):
   adaptive and scalable platform for high performance edge computing software
