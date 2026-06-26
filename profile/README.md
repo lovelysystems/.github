@@ -20,16 +20,10 @@ We are a small group of great team players developing highly scalable web servic
 
 We contribute our improvements to the tools we rely on, while also maintaining our own open-source projects, take a look at our public repositories.
 
-### Favorite Programming Languages
-
-- [Kotlin](https://kotlinlang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Python](https://www.python.org/)
-- [SQL](https://www.postgresql.org/docs/current/sql.html)
-- ...
-
 ### Favorite Technologies
 
+- [Anthropic Claude](https://claude.ai/)
+- [Kotlin](https://kotlinlang.org/), [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [SQL](https://www.postgresql.org/docs/current/sql.html)
 - [PostgreSQL](https://postgrest.org/), [Kafka](https://kafka.apache.org/), [CrateDB](https://github.com/crate/crate),  [Elasticsearch](https://www.elastic.co/), [Flink](https://flink.apache.org/)
 - [Micronaut](https://micronaut.io/), [React](https://reactjs.org/), [Redux](https://redux.js.org/), [Ktor](https://ktor.io/), [Pyramid](https://trypyramid.com/)
 - [Nginx](https://nginx.org/), [HAProxy](http://www.haproxy.org/), [Traefik](https://traefik.io/)
